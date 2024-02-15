@@ -1,11 +1,4 @@
 <resources>
     <string name="app_name">LocationReminders</string>
-    <string name="channel_name">channel_name</string>
-    <string name="channel_description">channel_description</string>
-    <string name="content_description_media">Image of the card</string>
-    <string name="card_title">Title</string>
-    <string name="content_body">A very large content body because we need to prove that the card content is showing correctly. Because of that this text is enormous</string>
-    <string name="card_primary_action">Action 1</string>
-    <string name="card_secondary_action">Action 2</string>
-    <string name="fab_content_description">Add a new item</string>
+    <string name="title_activity_map_list">MapListActivity</string>
 </resources>
